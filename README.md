@@ -1,6 +1,6 @@
 ## Hi, nice to see you here 👋
 
-I'm Filip Lizoń, student of computer science at "Wyższa Szkoła Informatyki i Zarządzania" in Wroclaw.
+I'm Filip Lizoń, graduate of IT studies currently working as Frontend Developer at Neonet.
 
 <h3>Contact</h3>
 
