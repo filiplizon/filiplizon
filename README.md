@@ -1,6 +1,6 @@
 ## Hi, nice to see you here 👋
 
-I'm Filip Lizoń, currently looking for a job as a frontend-developer.
+I'm Filip Lizoń, currently working as a frontend developer at AmRest.
 
 <h3>Contact</h3>
 
